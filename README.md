@@ -1,7 +1,7 @@
 # XPCToolbox
 
 Extensions and conveniences for Apple's
-[`XPC`]( https://developer.apple.com/documentation/xpc )
+[XPC]( https://developer.apple.com/documentation/xpc )
 APIs.
 
 ## NOTICE
